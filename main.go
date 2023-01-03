@@ -12,7 +12,7 @@ import(
 	_ "github.com/go-sql-driver/mysql"
 	"google.golang.org/grpc"
 
-	"accountServerGrpc/messager"
+	"github.com/dhirajgidde/accountServerGrpc/messager"
 	
 )
 
